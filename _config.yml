@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "SVP_7962_pick.JPG"
+  avatar           : "oz_profile.png"
   name             : "Olivia Zhao"
   pronouns         : # example: "she/her"  
   bio              : "Health Policy & Management PhD candidate (Fall 2025 job market candidate)"
