@@ -13,7 +13,7 @@ I will be on the academic job market in Fall 2025.
 
 Email: ozhao@hbs.edu
 
-***Job Market Paper*** (*Draft coming*)
+***Job Market Paper:*** **Policy Incentives and Pharmaceutical Innovation** (*Draft coming*)
 
 *Abstract:* This project explores how policy-driven market expectations influence drug innovation in two ways. First, we estimate the causal effects of extending market exclusivity for antibiotics, a critical drug class where the social value of new antibiotics likely exceeds private returns. Our identification approach leverages the enactment of the Generating Antibiotic Incentives Now (GAIN) Act, which granted five additional years of exclusivity for antibiotics but not other infectious disease products like antivirals or vaccines. We use a difference-in-differences approach comparing antibiotic products (treatment) to antiviral and vaccine products (control) to estimate the effect of the GAIN Act on innovative activity at multiple stages of drug development: patenting, pre-clinical activity, and progression through clinical trials.
 
