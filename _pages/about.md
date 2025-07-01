@@ -11,7 +11,7 @@ I'm a Health Policy & Management PhD candidate at Harvard Business School intere
 
 I will be on the academic job market in Fall 2025.
 
-Email: ozhao@hbs.edu
+Email: ozhao @ hbs.edu
 
 ---
 
