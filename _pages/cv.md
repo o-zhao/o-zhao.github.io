@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Download CV as pdf](https://o-zhao.github.io/files/Zhao_CV_202508.pdf)
+[Download CV as pdf](https://o-zhao.github.io/files/Zhao_CV_latest.pdf)
