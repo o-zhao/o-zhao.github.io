@@ -15,6 +15,10 @@ Vogel, Matthew, Olivia Zhao, William B. Feldman, Amitabh Chandra, Aaron S. Kesse
 
 Sinaiko, Anna D., Caroline E Sloan, Mark J Soto, Olivia Zhao, Chen-Tan Lin, and Foster R Goss. ["Clinician Response to Patient Medication Prices Displayed in the Electronic Health Record."](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2809102) JAMA Internal Medicine 183, no. 10 (October 2023): 1172–1175.
 
+## Papers Under Review
+
+Zhao, Olivia, Carolyn San Soucie, Daniel A. Rauch, Christina L. Cifra, Lois Lee, Nancy D. Beaulieu, David Cutler, and Alyna T. Chien. National Trends in Market Competition for Hospital-Based Pediatric Services: 2011-2018
+
 ## Working Papers
 
 Kong, Edward, and Olivia Zhao. ["Market Exclusivity and Innovation: Evidence From Antibiotics."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4676384) Working Paper, December 2023.
