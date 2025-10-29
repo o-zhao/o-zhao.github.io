@@ -23,4 +23,10 @@ Zhao, Olivia, Carolyn San Soucie, Daniel A. Rauch, Christina L. Cifra, Lois Lee,
 
 Kong, Edward, and Olivia Zhao. ["Market Exclusivity and Innovation: Evidence From Antibiotics."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4676384) Working Paper, December 2023.
 
+## Work in Progress
+
+“How Patient Assistance Programs Can Benefit Pharmaceutical Manufacturers and Employers: The Case of Copay Maximizers” with Leemore Dafny
+
+“The Doctor Will See Your Cost-Sharing Now: Price Transparency for Prescription Drugs” with Anna D. Sinaiko
+
 
