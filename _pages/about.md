@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm an applied microeconomist and Health Policy & Management PhD candidate at Harvard Business School interested in competition and innovation, with a particular topic focus on the pharmaceutical industry and prescription drug policy. 
+I'm an applied microeconomist interested in competition and innovation, with a particular topic focus on the pharmaceutical industry and prescription drug policy. I received my PhD in Health Policy & Management from Harvard Business School in 2026 and will begin as a Faculty Fellow at Brown University's Department of Health Services, Policy & Practice in Summer 2026.
 
-I will be on the academic job market in Fall 2025.
-
-Email: ozhao @ hbs.edu
+Email: olivia_zhao1 @ brown.edu
 
 ---
 
