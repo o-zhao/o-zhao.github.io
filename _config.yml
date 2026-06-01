@@ -24,11 +24,11 @@ author:
   avatar           : "oz_profile.png"
   name             : "Olivia Zhao"
   pronouns         : # example: "she/her"  
-  bio              : "Health Policy & Management PhD candidate (Fall 2025 job market candidate)"
-  location         : "Boston, MA"
-  employer         : "Harvard Business School"
-  uri              : "https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1261075"
-  email            : "ozhao[at]hbs[dot]org" 
+  bio              : "Faculty Fellow (Dept. of Health Services, Practice & Policy)"
+  location         : # ""
+  employer         : "Brown University"
+  uri              : # ""
+  email            : "olivia_zhao1[at]brown[dot]edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
