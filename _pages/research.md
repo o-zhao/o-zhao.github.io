@@ -19,10 +19,9 @@ Sinaiko, Anna D., Caroline E Sloan, Mark J Soto, Olivia Zhao, Chen-Tan Lin, and 
 ## Papers Under Review
 Kong, Edward, and Olivia Zhao. ["Market Exclusivity and Innovation: Evidence From Antibiotics."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4676384) Working Paper, December 2023.
 
-
-## Work in Progress
 “How Patient Assistance Programs Can Benefit Pharmaceutical Manufacturers and Employers: The Case of Copay Maximizers” with Leemore Dafny
 
-“The Doctor Will See Your Cost-Sharing Now: Price Transparency for Prescription Drugs” with Anna D. Sinaiko
+ “What Happens When Drug Companies Can Cover Your Deductible?” with Leemore Dafny, Lynn M. Hua, and Jinyeong Son
 
-
+## Work in Progress
+“Out-of-Pocket Price Transparency for Prescription Drugs” with Anna D. Sinaiko
