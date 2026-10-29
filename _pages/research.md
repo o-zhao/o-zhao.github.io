@@ -16,12 +16,11 @@ Vogel, Matthew, Olivia Zhao, William B. Feldman, Amitabh Chandra, Aaron S. Kesse
 
 Sinaiko, Anna D., Caroline E Sloan, Mark J Soto, Olivia Zhao, Chen-Tan Lin, and Foster R Goss. ["Clinician Response to Patient Medication Prices Displayed in the Electronic Health Record."](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2809102) JAMA Internal Medicine 183, no. 10 (October 2023): 1172–1175.
 
-## Papers Under Review
-Kong, Edward, and Olivia Zhao. ["Market Exclusivity and Innovation: Evidence From Antibiotics."](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4676384) Working Paper, December 2023.
+## Working Papers and Work in Progress
+“Policy Incentives for Pharmaceutical Innovation: Evidence From Antibiotics,” with Edward Kong (under review)
 
-“How Patient Assistance Programs Can Benefit Pharmaceutical Manufacturers and Employers: The Case of Copay Maximizers” with Leemore Dafny
+“How Patient Assistance Programs Can Benefit Pharmaceutical Manufacturers and Employers: The Case of Copay Maximizers,” with Leemore Dafny
 
- “What Happens When Drug Companies Can Cover Your Deductible?” with Leemore Dafny, Lynn M. Hua, and Jinyeong Son
+“What Happens When Drug Companies Can Cover Your Deductible?” with Leemore Dafny, Lynn M. Hua, and Jinyeong Son
 
-## Work in Progress
-“Out-of-Pocket Price Transparency for Prescription Drugs” with Anna D. Sinaiko
+“The Doctor Will See Your Cost-Sharing Now: Price Transparency for Prescription Drugs,” with Anna D. Sinaiko
