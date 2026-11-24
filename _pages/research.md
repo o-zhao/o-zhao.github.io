@@ -26,4 +26,8 @@ Sinaiko, Anna D., Caroline E Sloan, Mark J Soto, Olivia Zhao, Chen-Tan Lin, and 
 “Price Transparency for Prescribing: Effects on Patient Out-of-Pocket Costs,” with Anna D. Sinaiko (under review)
 
 ## Work in Progress
+"Economics of Alzheimer's Disease and Related Dementias Drug Development," with Matthew Vogel, Amitabh Chandra, and Olivier J. Wouters
+
 "When Exclusivity Binds: Revenue Timing and Regulatory Protection in a Calibrated Model of Drug Development"
+
+"Sites and Subjects: Selection in Clinical Trials," with Grace L. Park
