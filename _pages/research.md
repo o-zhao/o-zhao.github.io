@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+[Journal Articles](#journal-articles) · [Working Papers](#working-papers) · [Work in Progress](#work-in-progress)
+
 ## Journal Articles
 Zhao, Olivia, Carolyn San Soucie, Daniel A. Rauch, Christina L. Cifra, Lois Lee, Nancy D. Beaulieu, David Cutler, and Alyna T. Chien. ["National Trends in Market Competition for Hospital-Based Pediatric Services: 2011-2018."](https://doi.org/10.1111/1475-6773.70102) Health Services Research 61, no. 2 (2026). 
 
@@ -26,7 +28,7 @@ Sinaiko, Anna D., Caroline E Sloan, Mark J Soto, Olivia Zhao, Chen-Tan Lin, and 
 “Price Transparency for Prescribing: Effects on Patient Out-of-Pocket Costs,” with Anna D. Sinaiko (under review)
 
 ## Work in Progress
-"Economics of Alzheimer's Disease and Related Dementias Drug Development," with Matthew Vogel, Amitabh Chandra, and Olivier J. Wouters
+"Economics of Drug Development for Alzheimer's Disease and Related Dementias," with Matthew Vogel, Amitabh Chandra, and Olivier J. Wouters
 
 "When Exclusivity Binds: Revenue Timing and Regulatory Protection in a Calibrated Model of Drug Development"
 
